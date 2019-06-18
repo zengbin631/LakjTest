@@ -17,7 +17,7 @@ import java.util.concurrent.TimeUnit;
  *
  */
 public class CommonUtil {
-
+    //ASDFA
 	/**
 	 * 系统属性的初始化
 	 */
